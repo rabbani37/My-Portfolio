@@ -5,4 +5,4 @@ export const THEMES = {
 }
 
 export const DEFAULT_THEME = THEMES.PRIMARY
-export const STORAGE_KEY = 'theme'
+export const STORAGE_KEY = 'theme';
