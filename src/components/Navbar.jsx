@@ -9,6 +9,8 @@ function Navbar() {
   const navItems = [
     { to: 'home', label: 'Home' },
     { to: 'about', label: 'About' },
+    { to: 'skills', label: 'SkillBadge' },
+    { to: 'education', label: 'Education' },
     { to: 'projects', label: 'Projects' },
     { to: 'contact', label: 'Contact' },
   ]
@@ -50,7 +52,7 @@ function Navbar() {
           duration={500}
           className="text-xl font-bold ml-2 cursor-pointer"
         >
-          MyPortfolio
+          Rabbani.dev
         </Link>
       </div>
 
